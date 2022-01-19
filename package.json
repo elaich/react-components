@@ -1,6 +1,6 @@
 {
 	"name": "@elaich/react-components",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "This is elaich react components",
 	"main": "dist/main.js",
 	"scripts": {
